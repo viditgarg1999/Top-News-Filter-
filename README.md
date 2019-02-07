@@ -8,7 +8,7 @@ How to use this?
 You just have to copy this entire program in your python IDE(IDLE,PYCHARM etc.) 
 and then login to "newsapi.org" website which will generate an API for you. Now just replace the "Enter your Api here" text 
 in the code with that API.
-That's all
+That's all.
 
-Hope you find it useful
+Hope you find it useful.
 
