@@ -1,5 +1,5 @@
 # Top-News-Filter-
-Top News Filter  using News Api in pyhton
+Top News Filter  using News Api in python
 
 Hii..
 With the help of this python code you will be able to filter top business, tech,bitcoin etc. news
